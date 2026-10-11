@@ -13,6 +13,10 @@ Everything a paid scanner app charges for, in one small app that keeps your docu
 
 Developed by **Bongzkie**.
 
+<p>
+  <img src="docs/screenshots/home.jpg" alt="BongScanner home screen with scan tools and a scanned document" width="270">
+</p>
+
 ---
 
 ## Why switch?
